@@ -1,5 +1,6 @@
-# Zachary Ducahrme 11/8/19
 #!/bin/bash
+
+# Zachary Ducahrme 11/8/19
 
 # Compare Directory Changes
 
