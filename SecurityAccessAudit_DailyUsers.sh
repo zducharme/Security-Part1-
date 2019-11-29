@@ -1,3 +1,4 @@
+# Zachary Ducharme 11/8/19
 #!/bin/bash
 
 # Create originating directory and change active directories.
